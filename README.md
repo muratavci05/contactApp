@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![](https://github.com/muratavci05/contactApp/blob/55278d2c619c2e35297c6152bb252b9f0f15a8cf/src/components/assent/contacApp.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
