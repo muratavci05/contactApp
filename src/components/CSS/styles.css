@@ -1,0 +1,137 @@
+
+
+
+.formContainer{
+    width: 50%;
+    margin-top:70px;
+}    
+
+.titleName{
+    padding:25px;
+}
+
+
+.firsName{
+    padding:5px;
+}
+.email{
+    padding:5px;
+}
+
+.phoneNum{
+    padding: 5px;
+}
+
+.headerStyle{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+ 
+
+} 
+
+
+.contackListStyle{
+    align-items: center;
+}
+
+.deleteIcon{
+    color:rgb(213, 206, 188);
+}
+
+.deleteIcon:hover{
+    cursor: pointer;
+    color:rgb(198, 15, 15);
+}
+
+.editIcon{
+    color:rgb(197, 237, 203);
+}
+
+.editIcon:hover{
+    cursor:pointer;
+    color:green;
+}
+
+
+/* search */
+
+
+
+.inputContainer{
+    width: 50%;
+    margin-right: 10px;
+    padding-bottom: 10px;
+    margin-top: -50px;
+
+}
+
+
+
+.inputFormControl{
+    
+    width: 70%;
+    margin-right:10px;
+    padding-top: 10px;
+}
+
+.tableContainer{
+    margin-left: 20px;
+}
+
+.detailIcon{
+    cursor: pointer;
+}
+
+.detailIcon:hover{
+    color: orange;
+
+}
+
+
+
+/* detail  */
+
+.titleCard{
+    color:rgb(59, 69, 58);
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+.modalComponentContainer{
+    position:absolute;
+    width: 50%;
+    background-color: rgb(180, 206, 198);
+    margin-top: 100px;
+}
+
+.inputModalx{
+    padding: 25px;    
+}
+
+.modalComponentContainer input{
+        padding: 10px;
+        color: blue;
+}
+
+.inputModaly{
+    margin-top: 10px;
+}
+
+.detailContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-bottom:20px;
+    margin-right: 25px;
+}
+.closeB{
+    margin-right: 5px;
+    color:purple;
+}
+.homeB{
+    color:blue;
+}
+
+
