@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App.   
+projem 17 commitle ile yüklenmiştir, yanlışlıkla silinmesi nedeni ile tekrardan yüklenmiştir.gif incelendiğinde tarih üzerinden belli olacaktır.
 
 ![](https://github.com/muratavci05/contactApp/blob/55278d2c619c2e35297c6152bb252b9f0f15a8cf/src/components/assent/contacApp.gif)
 
